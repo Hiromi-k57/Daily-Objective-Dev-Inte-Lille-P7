@@ -10,9 +10,9 @@ Christopher
   - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir).
   - [x] Comprendre le principe des options dans les commandes.
 - [x] Pimper son terminal :
-  - [ ] Installation de `ZSH`
-  - [ ] Installation de `Ohmyzsh`
-  - [ ] configuration de `ZSH` comme shell par défaut
+  - [x] Installation de `ZSH`
+  - [x] Installation de `Ohmyzsh`
+  - [x] configuration de `ZSH` comme shell par défaut
   - [ ] Installation et configuration de `Powelevel 10K`
   - [ ] Allez voir les plugins de `Ohmyzsh`
 - [ ] Création de compte Github
