@@ -4,16 +4,16 @@ Yassen
 
 ## Jour 5 (Vendredi 6 Décembre 2024) :
 
-- [ ] Créer son premier repo Github
-- [ ] Découverte du Markdown :
-  - [ ] Comprendre l'intérêt du Markdown
-  - [ ] Découvrir les balises de bases :
-    - [ ] Titres
-    - [ ] Images
-    - [ ] Listes
-    - [ ] Formatage de texte (italique, souligné, gras)
-    - [ ] Code
-    - [ ] Citations
+- [x] Créer son premier repo Github
+- [x] Découverte du Markdown :
+  - [x] Comprendre l'intérêt du Markdown
+  - [x] Découvrir les balises de bases :
+    - [x] Titres
+    - [x] Images
+    - [x] Listes
+    - [x] Formatage de texte (italique, souligné, gras)
+    - [x] Code
+    - [x] Citations
     - [ ] Tableaux
     - [ ] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
